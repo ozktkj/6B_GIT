@@ -1,0 +1,10 @@
+# ユーザー名とメールアドレス
+git config user.name "自分の名前"
+git config user.email "自分のメールアドレス"
+
+git config credential.helper ""
+
+git credential-manager erase
+protocol=https
+host=github.com
+空行
