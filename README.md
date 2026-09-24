@@ -1,4 +1,3 @@
 # GITHUB練習用ディレクトリ
 
-git commit
-git pull
+# 消費税の計算プログラムを作製

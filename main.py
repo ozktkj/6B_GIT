@@ -1,6 +1,5 @@
 # main.py
 
-import random
-import datetime
+from function import add_tax
 
-print("TEST")
+print(add_tax(1000,0.1))
